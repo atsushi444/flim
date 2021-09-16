@@ -7,7 +7,7 @@
             "type": 0,
             "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
             "categories": [
-                "动作片",
+"动作片",
 "喜剧片",
 "爱情片",
 "科幻片",
@@ -410,4 +410,4 @@
         "泰国剧",
         "论理片"
       ]
-    },
+    }
