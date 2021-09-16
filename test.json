@@ -79,10 +79,10 @@
     },
     {
       "key": "afys_spider",
-      "name": "阿房影视",
+      "name": "全网影片搜索",
       "type": 2,
       "api": "7gxke5P9eFZoVV",
-      "playUrl": "",
+      "playUrl": "https://lab.liumingye.cn/vodshow/1-----------.html",
       "searchable": 1,
       "filterable": 1
     },
